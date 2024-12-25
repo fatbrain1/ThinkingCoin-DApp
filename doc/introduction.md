@@ -75,8 +75,8 @@ Join us in shaping the future of decentralized engagement!
 # Contributors  
 
 ## Core Team  
-- **[Your Name]** - Visionary and Lead.  
-- **[Team Member]** - Smart Contract Developer.  
+- **[Mansour Adam, Whitehair]** - Visionary and Lead.  
+- **[Jaffir]** - Smart Contract Developer.  
 - **[Team Member]** - AI Integration Specialist.  
 
 ## Key Partners  
@@ -117,10 +117,6 @@ You earn THC by contributing to the community through posts, content creation, a
 Our AI-driven incentive system ensures fair and transparent rewards, unlike traditional Web2 models that depend on centralized platforms.
 
 ## How do I join as a contributor?  
-Reach out to us through our [GitHub Repository](link-here) or community channels.  
+Reach out to us through our [GitHub Repository]([link-here](https://github.com/fatbrain1/ThinkingCoin-DApp/) or community channels.  
 
-Next Steps for Documentation
-	1.	Store Documentation:
-	•	Create a docs/ folder in your repository and add these markdown files.
-	2.	README Linking:
-Add links to these files in your repository’s README.md:
+
