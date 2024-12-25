@@ -117,6 +117,6 @@ You earn THC by contributing to the community through posts, content creation, a
 Our AI-driven incentive system ensures fair and transparent rewards, unlike traditional Web2 models that depend on centralized platforms.
 
 ## How do I join as a contributor?  
-Reach out to us through our [GitHub Repository]([link-here](https://github.com/fatbrain1/ThinkingCoin-DApp/) or community channels.  
+Reach out to us through our [GitHub Repository]([link-here](https://github.com/fatbrain1/ThinkingCoin-DApp/)) or community channels.  
 
 
