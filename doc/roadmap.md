@@ -39,13 +39,13 @@ Next Steps for Documentation
 Add links to these files in your repository’s README.md:
 
 ## Documentation  
-- [Introduction](docs/introduction.md)  
-- [Tokenomics](docs/tokenomics.md)  
-- [AI Integration](docs/ai-integration.md)  
-- [Smart Contracts](docs/smart-contracts.md)  
-- [Contributors](docs/contributors.md)  
-- [Roadmap](docs/roadmap.md)  
-- [FAQ](docs/faq.md)  
+- [Introduction](https://github.com/fatbrain1/thinkingcoin-DApp/docs/introduction.md)  
+- [Tokenomics](https://github.com/fatbrain1/thinkingcoin-DApp/docs/tokenomics.md)  
+- [AI Integration](https://github.com/fatbrain1/thinkingcoin-DApp/docs/ai-integration.md)  
+- [Smart Contracts](https://github.com/fatbrain1/thinkingcoin-DApp/docs/smart-contracts.md)  
+- [Contributors](https://github.com/fatbrain1/thinkingcoin-DApp/docs/contributors.md)  
+- [Roadmap](https://github.com/fatbrain1/thinkingcoin-DApp/docs/roadmap.md)  
+- [FAQ](https://github.com/fatbrain1/thinkingcoin-DApp/docs/faq.md)  
 
 
 	3.	Review and Expand:
