@@ -32,11 +32,7 @@ Our AI-driven incentive system ensures fair and transparent rewards, unlike trad
 ## How do I join as a contributor?  
 Reach out to us through our [GitHub Repository](link-here) or community channels.  
 
-Next Steps for Documentation
-	1.	Store Documentation:
-	•	Create a docs/ folder in your repository and add these markdown files.
-	2.	README Linking:
-Add links to these files in your repository’s README.md:
+
 
 ## Documentation  
 - [Introduction](doc/introduction.md)  
@@ -48,9 +44,5 @@ Add links to these files in your repository’s README.md:
 - [FAQ](https://github.com/fatbrain1/thinkingcoin-DApp/docs/faq.md)  
 
 
-	3.	Review and Expand:
-	•	Edit for project-specific details and update as the project evolves.
-
-Should I help generate the GitHub structure for this or refine any part further?
-
+	
  
